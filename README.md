@@ -195,9 +195,7 @@ Android  -> touch buttons and gyroscope input
 
 The project is a working prototype of a cross-platform 2D platformer game. It can be further developed by adding more levels, enemies, animations, sound effects, visual effects, balance improvements, and mobile optimization.
 
-## Author
 
-Developed by Alexander Matyunin as part of a bachelor's graduation project.
 
 ## License
 
