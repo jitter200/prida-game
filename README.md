@@ -1,5 +1,5 @@
 # Prida
-!<img width="939" height="528" alt="image" src="https://github.com/user-attachments/assets/2346d2c8-c911-4fb5-9295-9b1ddefee970" />
+<img width="939" height="528" alt="image" src="https://github.com/user-attachments/assets/2346d2c8-c911-4fb5-9295-9b1ddefee970" />
 
 **Prida** is a cross-platform 2D platformer game developed in Unity as part of a bachelor's graduation project.
 
@@ -25,6 +25,8 @@ The project is a playable prototype for **Windows** and **Android**. It includes
 * Android gyroscope-based gameplay area
 * Two different endings depending on the final player choice
 * Volume settings in the Options menu
+  
+<img width="530" height="494" alt="image" src="https://github.com/user-attachments/assets/68c0caf7-d936-47fc-979f-5a9bb259737f" />
 
 ## Technologies
 
@@ -37,6 +39,8 @@ The project is a playable prototype for **Windows** and **Android**. It includes
 * Animator
 * Windows
 * Android
+  
+<img width="960" height="457" alt="image" src="https://github.com/user-attachments/assets/756248f6-c564-4533-abe4-3a5b5ba99b0f" />
 
 ## Project Structure
 
